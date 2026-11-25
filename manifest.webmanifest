@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "ECO-LINK PLAY",
+  "short_name": "ECO-LINK",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f0f7f2",
+  "theme_color": "#176b4e",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
